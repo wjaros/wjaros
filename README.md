@@ -1,4 +1,4 @@
-# Hi, I'm Wojciech 👋
+# Hi, I'm Jaros 👋
 
 Warsaw-based tinkerer who likes building practical things.
 
