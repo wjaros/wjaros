@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @wjaros
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Wojciech 👋
 
-<!---
-wjaros/wjaros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Warsaw-based tinkerer who likes building practical things.
+
+- 🔧 Homelab — Proxmox, Docker, Home Assistant
+- 🌐 Networking
+- 🖨️ 3D printing
+- 🃏 Magic: The Gathering — see [mtg-manager](https://github.com/wjaros/mtg-manager)
+
+### 🌱 Currently exploring
+- Automating my home setup end to end
+- AI-assisted development workflows
+
+### 🎮 Off the keyboard
+Fantasy books and RPGs (my MA thesis was on narrative in *Skyrim*).
+
+📫 Reach me via issues or discussions in my repos.
